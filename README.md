@@ -5,7 +5,7 @@ Decoder : Translates and predicts the input embedding vectors into one-hot vecto
 
 Implemented NMT with/without attention
 
-## Referemces
+## References
 * https://arxiv.org/pdf/1409.0473v7.pdf
 * https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/
 * https://opus.nlpl.eu/
